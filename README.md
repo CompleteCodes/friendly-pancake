@@ -1,9 +1,3 @@
 # INTRODUCTION
 
-Intro to the repo3
-
-Testing this
-
-
-12345
-12345
+Intro to the repo
